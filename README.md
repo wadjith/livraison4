@@ -1,7 +1,8 @@
 # livraison4
-	************************************
-  	Description de l'application:   	
-	************************************
+
+****************************************
+     Description de l'application:   	
+****************************************
 
 Pharmacie est une application "Java Swing" d'aide à la gestion des produits (médicaments) en pharmacie. 
 L'application offre les fonctionnalités suivantes:
@@ -10,7 +11,7 @@ L'application offre les fonctionnalités suivantes:
 - Modifier les produits
 
 ********************************************************
- Pré-requis à l'execution de l'application		
+    Pré-requis à l'execution de l'application		
 ********************************************************
 a) Installer un jdk ou au moins un jre sur son ordinateur (au moins la version 1.8).
 Pour l'installation suivre les étapes suivantes:
@@ -28,7 +29,7 @@ La réponse doit vous indiquer la version de Java installée.
 
 
 **************************************
- 	Installation de l'application		
+    Installation de l'application		
 **************************************
 1) Copier le repertoire de l'application (Pharmacie) dans un repertoire de votre choix sur le disque dur.
 
