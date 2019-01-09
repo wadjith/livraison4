@@ -1,0 +1,4 @@
+dbhost=localhost
+dbname=pharmacie
+username=root
+password=
